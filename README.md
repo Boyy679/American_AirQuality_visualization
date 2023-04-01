@@ -46,7 +46,7 @@ Our dataset is from GitHub of **USEPA / Air-Trends-Report/ etrends_2021**
 
     •VOC: **decrease 48%**
 
-![](C:\Users\think\AppData\Roaming\Typora\typora-user-images\image-20230401143002694.png)
+![](image/Task1_1.png)
 
 * Plot 1.2: American national emissions by source category
 
@@ -70,7 +70,7 @@ Our dataset is from GitHub of **USEPA / Air-Trends-Report/ etrends_2021**
 
     **fuel combustion sources**, like: electric utilities, industrial boilers…
 
-![image-20230401143105136](C:\Users\think\AppData\Roaming\Typora\typora-user-images\image-20230401143105136.png)
+![](image/Task1_2.png)
 
 > Task 2
 >
@@ -86,7 +86,7 @@ Our dataset is from GitHub of **USEPA / Air-Trends-Report/ etrends_2021**
     * Vehicle Traveled: Change rate of the Vehicles Miles Traveled
     * Population: Change rate of population comparing to 1970
 
-![image-20230401143441777](C:\Users\think\AppData\Roaming\Typora\typora-user-images\image-20230401143441777.png)
+![](image/Task2_1.png)
 
 * Plot 2.2: Graph composition of the correlation plot between each area
   * **Data**: 2 categorical, 1 quantitative
@@ -94,7 +94,7 @@ Our dataset is from GitHub of **USEPA / Air-Trends-Report/ etrends_2021**
   * **Mark**: Area
   * **Channel**: Color hue
 
-![image-20230401143529779](C:\Users\think\AppData\Roaming\Typora\typora-user-images\image-20230401143529779.png)
+![](image/Task2_2.png)
 
 * Plot 2.3: Graph composition for Economic development helps reduce Emissions
   * **Data**: 3 quantitative 
@@ -102,7 +102,7 @@ Our dataset is from GitHub of **USEPA / Air-Trends-Report/ etrends_2021**
   * **Mark**: Point
   * **Channels**: Horizontal, Vertical Positions, Area, Color hue
 
-![image-20230401143535659](C:\Users\think\AppData\Roaming\Typora\typora-user-images\image-20230401143535659.png)
+![](image/Task2_3.png)
 
 > Task 3
 >
@@ -113,12 +113,12 @@ Our dataset is from GitHub of **USEPA / Air-Trends-Report/ etrends_2021**
 * **Mark**: Points
 * **Channels:** Icon, Color Hue, Geographic Positions
 
-![image-20230401143732969](C:\Users\think\AppData\Roaming\Typora\typora-user-images\image-20230401143732969.png)
+![](image/Task3_1.png)
 
 * **Data**: 8 quantitative
 * **Task**: Comparison
 * **Mark**:  Lines, Areas
 * **Channels:** Area range, Color
 
-![image-20230401143747399](C:\Users\think\AppData\Roaming\Typora\typora-user-images\image-20230401143747399.png)
+![](image/Task3_2.png)
 
